@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dff0c083.css",
+    "main.js": "/static/js/main.d913bcb5.js",
+    "static/media/senskpi.jpg": "/static/media/senskpi.9f3237feac63359b1681.jpg",
+    "static/media/oprationmange.jpg": "/static/media/oprationmange.db2d8ea9419e65723ef3.jpg",
+    "static/media/IT.jpg": "/static/media/IT.7fe62d4d9224f45f146d.jpg",
+    "static/media/finalsubImg.svg": "/static/media/finalsubImg.485d91afd06ff28dc89370ab44307dac.svg",
+    "static/media/Project.jpg": "/static/media/Project.8065896e9da412d52bd1.jpg",
+    "static/media/Communication.jpg": "/static/media/Communication.8d94459b9581be2d78ed.jpg",
+    "static/media/finance.jpg": "/static/media/finance.45b9e6da712a2de4537a.jpg",
+    "static/media/pexels-polina-zimmerman-3747455.jpg": "/static/media/pexels-polina-zimmerman-3747455.45b9e6da712a2de4537a.jpg",
+    "static/media/Customer.jpg": "/static/media/Customer.b23ac42fccf358a6d90f.jpg",
+    "static/media/Sales.jpg": "/static/media/Sales.f14e037aec436bd13bfc.jpg",
+    "static/media/finance21.jpg": "/static/media/finance21.f49850135d46c8b0bca9.jpg",
+    "static/media/sub-1.JPG": "/static/media/sub-1.3264cc2e92ede11dc888.JPG",
+    "static/media/sceniuz.svg": "/static/media/sceniuz.8ab4e3f201be50816db87d837ae20e50.svg",
+    "static/media/Kpi.png": "/static/media/Kpi.a02e0af5825de1aa41a9.png",
+    "static/media/Contact us-bro-new.svg": "/static/media/Contact us-bro-new.218b2e13b285bc3258ff8eede2a6be28.svg",
+    "static/media/Share link-rafiki.svg": "/static/media/Share link-rafiki.0d2004f20af8f8fa42e3269a7d312e45.svg",
+    "index.html": "/index.html",
+    "main.dff0c083.css.map": "/static/css/main.dff0c083.css.map",
+    "main.d913bcb5.js.map": "/static/js/main.d913bcb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff0c083.css",
+    "static/js/main.d913bcb5.js"
+  ]
+}
